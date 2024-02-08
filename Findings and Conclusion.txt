@@ -1,0 +1,81 @@
+1. Genre Analysis
+
+i. Top 5 Commonly watched Movie Genres
+
+* Comedy, Action, Drama, Adventure and Crime
+
+ii. Descriptive Statistics
+
+mean - 6.46
+Median - 6.60
+Variance - 1.11
+Std - 1.05
+range - 1.60 to 9.30
+
+2. Duration Analysis
+
+i. Relationship between movie duration and imdb score
+   
+result - most of the datapoints are in the duration of 100 - 160, they do not have any significant relationship between them as duration does not influence the IMDB score
+
+ii. Distribution of movie durations
+
+result - they are somewhat normally distributed and positively skewed to the right.
+
+3. language analysis
+
+i. Top 5 common languages
+
+* English, French, Spanish, Mandarin, German
+
+result - irrespective of the language the movie matters for a high IMDb score
+
+4. Director analysis
+
+i. Top 5 directors by movies average imdb score
+
+* Akira, Charles, Tony, Alfred, Damien, Majid, Ron 
+
+ii. Do directors influence the movies average imdb score
+
+* from the visualization i can conclude that directors are definetly influencing the Imdb score
+
+5. Budget analysis
+
+i. Top 5 movies with high profit margin
+
+* Paranormal, Tarnation, The blair witch project, the brothers McMullen, The texas chain saw massacre
+
+ii. Does High Budget of the movies contribute high gross proft margin?
+
+result - Definetly No! from the scatter plot they both do not have any significant relationship between them
+
+6. Other Insights
+
+i. Top 5 Content ratings
+
+* R, PG-13, PG, G, NOt rated
+
+ii. Top 5 country with high gross profit margin
+
+* Afghanistan, Philipines, argentina, taiwan, indonesia
+
+iii. Top 5 genre with high gross profit margin
+
+* Musical, Family, Western, Horror, Fantasy
+
+iv. Top 5 movies with High IMDB score
+
+* Shawnshank redemption, Godfather, The dark knight, godfather part -2 , pulp fiction, schilinder list, The good the bad, The lord of the rings
+
+v. Gross profit margin by year
+
+* In 1932 - 1940 the budget is very high even when compared to the year 2020, 2000 
+
+
+
+ 
+
+
+                                               
+

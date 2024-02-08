@@ -1,0 +1,81 @@
+This IMBD dataset has 28 features (columns) and 5043 (rows)
+
+Data Cleaning:
+
+* Remove missing values
+* Remove duplicated rows
+
+Columns Info:
+
+1. Color - Nominal Categorical variable - (Color and Black/White)
+
+2. Director_name - Categorical - (many values)
+
+3. num_critic_for_reviews - Numerical
+
+4. Duration - Numerical
+
+5. actor_1_name - Categorical 
+
+6. actor_2_name	- Categorical 
+
+7. actor_3_name	- Categorical 
+
+8. genres - Categorical
+
+9. movie_title - Categorical
+
+10. plot_keywords - Description
+
+11. movie_imdb_link - link
+
+12. num_user_for_reviews - Numerical
+
+13. num_voted_users - Numerical
+
+14. language - Categorical
+
+15. country - Categorical
+
+16. title_year - Year
+
+17. content_rating - Categorical
+
+18. budget - Continuous Numerical variable
+
+19. Gross - Continuous Numerical variable
+
+20. facenumber_in_poster - Dicrete Numerical variable (Category)
+
+21. imdb_score - Dicrete numerical
+
+22. aspect_ratio - Numerical
+
+23. movie_facebook_likes - Numerical
+
+24. director_facebook_likes - Numerical
+
+25. cast_total_facebook_likes - Numerical
+
+26. actor_3_facebook_likes and actor_2_facebook_likes and actor_1_facebook_likes - Numerical
+
+Columns that have missing values
+
+1. year, content_rating, duration, director name, color/bw, language, country, budget, gross_earnings
+
+Columns for Insights
+
+1. Genres, IMDB score
+
+2. Movie duration, IMDB score
+
+3. Languages, IMDB score
+
+4. Directors, IMDB score
+
+5. Movie budgets, gross earnings, movie_title
+
+6. Country
+
+
+
